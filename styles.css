@@ -88,7 +88,8 @@ header h1 + span {
   text-decoration: line-through;
   opacity: 0.5;
 }
-.footer {
+.footer
+{
   display: block;
   text-align: center;
   background-color: #4A4F56;
